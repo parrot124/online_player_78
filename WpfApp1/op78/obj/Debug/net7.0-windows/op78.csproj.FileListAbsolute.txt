@@ -28,7 +28,6 @@ G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\op78.csproj.Assem
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\MainWindow.g.cs
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\App.g.cs
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\op78_MarkupCompile.cache
-G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\op78_MarkupCompile.lref
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\MainWindow.baml
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\op78.g.resources
 G:\Fork\online_player_78\WpfApp1\op78\obj\Debug\net7.0-windows\op78.GeneratedMSBuildEditorConfig.editorconfig
