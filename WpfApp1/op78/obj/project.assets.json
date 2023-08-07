@@ -8,24 +8,32 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Влостилин Сыктывкара\\.nuget\\packages\\": {}
+    "C:\\Users\\komis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\op78\\online_player_78\\WpfApp1\\op78\\op78.csproj",
+      "projectUniqueName": "G:\\Fork\\online_player_78\\WpfApp1\\op78\\op78.csproj",
       "projectName": "op78",
-      "projectPath": "X:\\op78\\online_player_78\\WpfApp1\\op78\\op78.csproj",
-      "packagesPath": "C:\\Users\\Влостилин Сыктывкара\\.nuget\\packages\\",
-      "outputPath": "X:\\op78\\online_player_78\\WpfApp1\\op78\\obj\\",
+      "projectPath": "G:\\Fork\\online_player_78\\WpfApp1\\op78\\op78.csproj",
+      "packagesPath": "C:\\Users\\komis\\.nuget\\packages\\",
+      "outputPath": "G:\\Fork\\online_player_78\\WpfApp1\\op78\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Влостилин Сыктывкара\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\komis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
