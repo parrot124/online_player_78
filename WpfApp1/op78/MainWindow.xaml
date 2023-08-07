@@ -12,7 +12,7 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
         
-        <Label Grid.Row="0" Content="Username or Email" 
+        <Label Grid.Row="0" Content="Email" 
                Foreground="White" FontSize="16" 
                HorizontalAlignment="Center" Margin="0,5"/>
 
