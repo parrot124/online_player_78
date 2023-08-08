@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using System.Windows;
+using System.Xml.Schema;
 
 namespace WpfApp1
 {
@@ -12,22 +13,15 @@ namespace WpfApp1
         
         public bool CheckEmail(string email)
         {
-            string[] emailDomens = { "mail.ru", "@gmail.com", "yandex.ru" };
-            string[] emailParts = email.Split("@");
-
-            if (email.Contains(' ') || email.Split("@").Length != 2)
+            if (email.Contains(' ') || email.Contains('@') == false)
             {
                 return false;
             }
             
-            string domen = emailParts[1];
-
-            if (!emailDomens.Contains(domen))
-            { 
-                return false;
-            }
-
-            return true;
+            string[] domains = { "mail.ru", "gmail.com", "yandex.ru" };
+            string domain = email.Split("@").Last();
+            
+            return domains.Contains(domain) ;
         }
     }
 }
